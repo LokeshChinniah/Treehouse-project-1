@@ -15,10 +15,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: red;
 }
 a:hover {
-  color: #6633ff;
+  color: green;
 }
 
 /* Section Styles */
